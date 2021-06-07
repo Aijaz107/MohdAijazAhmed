@@ -1,0 +1,181 @@
+{
+  "main": {
+    "name":"Mohd Aijaz Ahmed",
+    "description":"I am an engineering student interested in full stack development",
+    "image":"profilepic.jpeg",
+    "bio":"Computer science student  with experience working across the full-stack of software development. I've built a few projects by myself and I'm looking for a role where I can grow and learn from other experienced  team members.",
+    "contactmessage":"You can contact me via mail or the social media accounts for any sort of query!",
+    "email": "mohdaijazahmed2000@gmail.com",
+    "phone": "7997786403",
+    "github":"https://github.com/Aijaz107",
+    "project":"https://github.com/Aijaz107",
+    "address":{
+      "street":"India",
+      "city":"Hyderabad",
+      "state":"Telangana",
+      "zip": "500023"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1cgIgiJ8HfFUXCmc9mjhV8OET8DMKsoBB/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/mohdaijaz.ahmed.520",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/MohdAijaz107?s=08",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mohd-aijaz-ahmed/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/mohd._.aijaz._.107/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Aijaz107",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"MUFFAKHAM JAH COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "degree":"Bachelor of Engineering in Computer Science",
+        "graduated":"Aug 2018 - 2022",
+        "description":"CGPA: 9.0/10"
+      },
+      {
+        "school":"Sri Chaitanya Junior Kalasala",
+        "degree":"Intermediate",
+        "graduated":"July 2016 - May 2018",
+        "description":"GRADE: 94.6/100"
+      },
+      {
+        "school":"Vikas High School",
+        "degree":"Primary school",
+        "graduated":"2004 - 2016",
+        "description":"GRADE: 9.2/10"
+      }
+    ],
+    "work":[
+      {
+        "company":"PROTRAINY",
+        "title":"BACK END DEVELOPER INTERN",
+        "years":"May 2020 - Aug 2020",
+        "description":"Developed an Exam portal web application using Python, Django, PostgreSql, Html, Css, Javascript. Worked across the software development life cycle to gather user requirements and design, build maintain and deployment of the application on Cpanel and Godaddy.Successfully completed the project within the time and with team coordination."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"C++",
+        "level":"65%"
+      },    
+      {
+        "name":"C",
+        "level":"65%"
+      },
+      {
+        "name":"Dart",
+        "level":"40%"
+      },
+      {
+        "name":"Data Structures and Algorithms",
+        "level":"80%"
+      },
+      {
+        "name":"Django",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"HTML/CSS/JS",
+        "level":"65%"
+      },
+      {
+        "name":"DATA BASE :  Sql, MySql, PostgreSql, SqlLite, MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"FLUTER(Dart)",
+        "level":"40%"
+      },
+      {
+        "name":"OTHERS(Flask, Selenium, Tkinter, Kivy, Git/Github)",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"UPIFY",
+        "category":"education",
+        "image":"upify.png",
+        "url":"https://github.com/Aijaz107/Upify"
+      },
+      {
+        "title":"Industry Portal",
+        "category":"",
+        "image":"industry.png",
+        "url":"https://github.com/Aijaz107"
+      },
+      {
+        "title":"E-Card",
+        "category":"",
+        "image":"ecard.png",
+        "url":"https://github.com/Aijaz107/E-CARD"
+      },
+      {
+        "title":"Employee Registration",
+        "category":"",
+        "image":"login_register.png",
+        "url":"https://github.com/Aijaz107/Login_registration"
+      }, 
+      {
+        "title":"Form_Registration",
+        "category":"",
+        "image":"registration_display.png",
+        "url":"https://github.com/Aijaz107/Form_Registration_DisplayRecords"
+      },    
+      {
+        "title":"Expenses-App",
+        "category":"",
+        "image":"expenses_app.png",
+        "url":"https://github.com/Aijaz107/Expenses_app"
+      },
+      {
+        "title":"kivy-App",
+        "category":"",
+        "image":"kivy.png",
+        "url":"https://github.com/Aijaz107/Kivy_Form"
+      },
+      {
+        "title":"Wheather App",
+        "category":"",
+        "image":"wheather.png",
+        "url":"https://github.com/Aijaz107/Flask_Wheather_App"
+      }
+    ]
+  }
+}
