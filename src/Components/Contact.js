@@ -101,10 +101,11 @@ class Contact extends Component {
                     ></textarea>
                   </div>
                   <div>
+                        <label />
                     {/* <button  className="submit" type="submit">Submit</button> */}
                     <input style={{textTransform:"uppercase" , letterSpacing:"3px", color:"#fff",
                      background:"#0D0D0D", border:"none", cursor:"pointer", height:"auto", display:"inline-block",
-                     borderRadius:"0px", marginLeft:"26%" }} type="submit" value="Submit"></input>
+                     borderRadius:"0px"}} type="submit" value="Submit"></input>
                     {/* <span id="image-loader">
                       <img alt="" src="images/loader.gif" />
                     </span> */}
