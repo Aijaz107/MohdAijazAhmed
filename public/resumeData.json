@@ -2,13 +2,13 @@
   "main": {
     "name":"Mohd Aijaz Ahmed",
     "description":"I am an engineering student interested in full stack development",
-    "image":"profilepic.jpeg",
+    "image":"profilepic.jpg",
     "bio":"Computer science student  with experience working across the full-stack of software development. I've built a few projects by myself and I'm looking for a role where I can grow and learn from other experienced  team members.",
     "contactmessage":"You can contact me via mail or the social media accounts for any sort of query!",
     "email": "mohdaijazahmed2000@gmail.com",
     "phone": "7997786403",
     "github":"https://github.com/Aijaz107",
-    "project":"https://github.com/Aijaz107",
+    "project":"https://www.linkedin.com/in/mohd-aijaz-ahmed/",
     "address":{
       "street":"India",
       "city":"Hyderabad",
@@ -101,20 +101,20 @@
         "level":"80%"
       },
       {
-        "name":"Django",
-        "level":"70%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"60%"
-      },
-      {
         "name":"HTML/CSS/JS",
         "level":"65%"
       },
       {
         "name":"DATA BASE :  Sql, MySql, PostgreSql, SqlLite, MongoDB",
         "level":"80%"
+      },
+      {
+        "name":"Django",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
       },
       {
         "name":"FLUTER(Dart)",
