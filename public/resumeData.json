@@ -149,8 +149,14 @@
       {
         "title":"Shortnt",
         "category":"AI",
-        "image":"upify.png",
+        "image":"shortnt.png",
         "url":"https://shortnt.netlify.app"
+      },
+      {
+        "title":"Arcy Interiors",
+        "category":"AI",
+        "image":"arcy.png",
+        "url":"https://arcy-interiors.netlify.app"
       },
       {
         "title":"UPIFY",
