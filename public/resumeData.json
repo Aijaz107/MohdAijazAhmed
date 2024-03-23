@@ -1,19 +1,19 @@
 {
   "main": {
-    "name":"Mohd Aijaz Ahmed",
-    "description":"I am an engineering student interested in full stack development",
+    "name":"Aijaz Ahmed Mohammed",
+    "description":"I am a Full Stack developer",
     "image":"profilepic.jpg",
-    "bio":"Computer science student  with experience working across the full-stack of software development. I've built a few projects by myself and I'm looking for a role where I can grow and learn from other experienced  team members.",
+    "bio":"As a full stack software developer, I have experience in both front-end and back-end development. I am skilled in building web applications that are scalable and efficient. I am committed to delivering high-quality code that meets or exceeds client expectations. Seeking new challenges and opportunities to learn and grow.",
     "contactmessage":"You can contact me via mail or the social media accounts for any sort of query!",
     "email": "mohdaijazahmed2000@gmail.com",
-    "phone": "7997786403",
+    "phone": "+1 226 961 7018 | +91 7997786403",
     "github":"https://github.com/Aijaz107",
     "project":"https://www.linkedin.com/in/mohd-aijaz-ahmed/",
     "address":{
-      "street":"India",
-      "city":"Hyderabad",
-      "state":"Telangana",
-      "zip": "500023"
+      "street":"Canada",
+      "city":"Windsor",
+      "state":"Ontario",
+      "zip": ""
     },
     "website": "",
     "resumedownload":"https://drive.google.com/file/d/1ZLBenr3dZSbrdYcVqaco_y9KdeNn83zs/view",
@@ -49,10 +49,16 @@
     "skillmessage":"",
     "education":[
       {
-        "school":"MUFFAKHAM JAH COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "school":"University of Windsor",
+        "degree":"Master of Applied Computing",
+        "graduated":"Jan 2024 - 2025",
+        "description":""
+      },
+      {
+        "school":"Osmania University",
         "degree":"Bachelor of Engineering in Computer Science",
         "graduated":"Aug 2018 - 2022",
-        "description":"CGPA: 9.0/10"
+        "description":"CGPA: 9.0/10.0"
       },
       {
         "school":"Sri Chaitanya Junior Kalasala",
@@ -68,6 +74,18 @@
       }
     ],
     "work":[
+      {
+        "company":"DBS BANK",
+        "title":"APPLICATION DEVELOPER",
+        "years":"July 2022 - Nov 20223",
+        "description":"Created a user-friendly app for business analysts and Relationship Managers, enabling effortless data-driven predictions. Streamlined tasks like data preparation and model training. Delivered a web script automating metadata creation, saving 40% in productivity. Won AI/ML hackathon with innovative approach to machine learning retraining pipeline for sentence classification and similarity matching."
+      },
+      {
+        "company":"SOLITAIRE SOLUTIONS",
+        "title":"FULL STACK DEVELOPMENT INTERN",
+        "years":"June 2021 - Aug 2021",
+        "description":"Built a Website for Interior Designs using ReactJS, NodeJS, and ExpressJS. Designed an UI to integrate with the Machine Learning Model using Python, Django, Html, CSS, and JavaScript. It takes the details and displays the result from the ML model."
+      },
       {
         "company":"PROTRAINY",
         "title":"BACK END DEVELOPER INTERN",
@@ -128,6 +146,12 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"Shortnt",
+        "category":"AI",
+        "image":"upify.png",
+        "url":"https://shortnt.netlify.app"
+      },
       {
         "title":"UPIFY",
         "category":"education",
